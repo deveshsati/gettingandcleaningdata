@@ -10,7 +10,7 @@
   
 4. The variable names were taken from the feature.txt file
 
-5. The variable names have been cleaned to remove any parentheses, comma or hyphens
+5. The variable names have been cleaned to remove any parentheses, comma or hyphens. Also, some repeated occurrence of the same word (such as BodyBody) have been removed.
 
 6. The Activity names were taken from the activity_labels.txt files and are present as-is
 
